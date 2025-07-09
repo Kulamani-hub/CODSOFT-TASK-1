@@ -1,4 +1,6 @@
-![Screenshot 2025-07-09 111930](https://github.com/user-attachments/assets/17558c6f-2852-401b-b5b1-990f5ec4b87b)# CODSOFT-TASK-1 portfolio 
+# CODSOFT-TASK-1 portfolio 
+![Screenshot 2025-07-09 111930](https://github.com/user-attachments/assets/17558c6f-2852-401b-b5b1-990f5ec4b87b)
+
 
 # Kulamani's Personal Portfolio 🌐
 
@@ -28,13 +30,4 @@ I'm **Kulamani**, a passionate and creative web developer from India. I speciali
 
 > Optional: You can enhance it in future with JavaScript frameworks like React, or add animations with libraries like AOS or GSAP.
 
-## 📁 Folder Structure
-
-```plaintext
-portfolio/
-├── index.html
-├── style.css
-├── IMG20250706193128[1].jpg
-├── kulamani cv.docx
-└── README.md
 
